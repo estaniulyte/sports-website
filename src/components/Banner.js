@@ -39,9 +39,7 @@ const Banner = () => {
             className='bg-blue-300 w-full h-full bg-banner2 md:bg-banner bg-cover bg-right lg:bg-center bg-no-repeat flex-1'
             data-aos='fade-right'
             data-aos-delay='900'
-          >
-            image
-          </div>
+          />
         </div>
       </div>
     </section>
