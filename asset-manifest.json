@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sports-website/static/css/main.a30dfbd3.css",
-    "main.js": "/sports-website/static/js/main.39473d3b.js",
+    "main.css": "/sports-website/static/css/main.45158c97.css",
+    "main.js": "/sports-website/static/js/main.24d7a942.js",
     "static/media/bg2.png": "/sports-website/static/media/bg2.f59b2c2bddf7ef829587.png",
     "static/media/bg.png": "/sports-website/static/media/bg.1db345b86063ed0d8ffb.png",
     "static/media/woman.png": "/sports-website/static/media/woman.afe487a6399eecfa1aa7.png",
@@ -23,11 +23,11 @@
     "static/media/users-icn.svg": "/sports-website/static/media/users-icn.1c1181836b52f949c1de5db01fcd212e.svg",
     "static/media/community-icn.svg": "/sports-website/static/media/community-icn.6ccf103bf065aaec1be8ea4cddcb9511.svg",
     "static/media/question-mark.svg": "/sports-website/static/media/question-mark.ac78e0f4921dbec4cdd8586294a5bb5d.svg",
-    "main.a30dfbd3.css.map": "/sports-website/static/css/main.a30dfbd3.css.map",
-    "main.39473d3b.js.map": "/sports-website/static/js/main.39473d3b.js.map"
+    "main.45158c97.css.map": "/sports-website/static/css/main.45158c97.css.map",
+    "main.24d7a942.js.map": "/sports-website/static/js/main.24d7a942.js.map"
   },
   "entrypoints": [
-    "static/css/main.a30dfbd3.css",
-    "static/js/main.39473d3b.js"
+    "static/css/main.45158c97.css",
+    "static/js/main.24d7a942.js"
   ]
 }
