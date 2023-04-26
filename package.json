@@ -1,5 +1,6 @@
 {
-  "name": "gymme-landing",
+  "name": "sports-website",
+  "homepage": "https://estaniulyte.github.io/sports-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
