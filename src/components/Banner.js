@@ -6,7 +6,7 @@ const Banner = () => {
 
   return (
     <section
-      className='bg-neutral-500 h-[790px]'
+      className='bg-neutral-500 h-[80vh] md:h-[790px]'
     >
       <div className='container mx-auto h-full'>
         <div className='flex items-center h-full relative -space-x-48 lg:-space-x-24'>
