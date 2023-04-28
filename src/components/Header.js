@@ -27,10 +27,10 @@ const Header = () => {
           <img src={logo} alt='Logo' className='w-[55px]' />
         </a>
         <Nav />
-        <div className='hidden lg:flex space-x-4'>
+        {/* <div className='hidden lg:flex space-x-4'>
           <button className='btn btn-sm text-white hover:text-primary-200 transition'>{ btnLoginText }</button>
           <button className='btn btn-sm btn-primary'>{ btnSignupText }</button>
-        </div>
+        </div> */}
         <div onClick={() => setNavMobile(!navMobile)} className='lg:hidden absolute right-4'>
           { navMobile ? (
             <RiCloseFill className='text-primary-200 text-3xl cursor-pointer' />
