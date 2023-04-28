@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/sports-website/static/css/main.1ea50a8f.css",
-    "main.js": "/sports-website/static/js/main.d146601c.js",
+    "main.css": "/sports-website/static/css/main.4aeb4edf.css",
+    "main.js": "/sports-website/static/js/main.1921dc4d.js",
+    "static/media/suaugusieji.png": "/sports-website/static/media/suaugusieji.305765713b94076ce3f7.png",
+    "static/media/mergvakariai.png": "/sports-website/static/media/mergvakariai.89165fb5960402fc2b06.png",
+    "static/media/laisvasLaikas.png": "/sports-website/static/media/laisvasLaikas.081d002f1f218ec455ca.png",
+    "static/media/privacios.png": "/sports-website/static/media/privacios.3ac41c278832df35e197.png",
+    "static/media/varzybos.png": "/sports-website/static/media/varzybos.17ec0dcfcbd4e12e65fc.png",
+    "static/media/vaikai.png": "/sports-website/static/media/vaikai.40b50ac76d7624b94d60.png",
     "static/media/bg2.png": "/sports-website/static/media/bg2.f59b2c2bddf7ef829587.png",
     "static/media/bg.png": "/sports-website/static/media/bg.1db345b86063ed0d8ffb.png",
     "static/media/woman.png": "/sports-website/static/media/woman.afe487a6399eecfa1aa7.png",
+    "static/media/lankstumas.jpg": "/sports-website/static/media/lankstumas.7663c341f5b1feb95023.jpg",
     "static/media/img4.png": "/sports-website/static/media/img4.3f2b41a180f0b0e9b539.png",
     "static/media/img3.png": "/sports-website/static/media/img3.76cafac0275672eee799.png",
     "static/media/img1.png": "/sports-website/static/media/img1.a5400d538dc08bb9c485.png",
     "static/media/battle-rope.png": "/sports-website/static/media/battle-rope.f0e838feb90e5240e67b.png",
-    "static/media/fitness.png": "/sports-website/static/media/fitness.40c4aecb2995e4d21467.png",
     "static/media/img2.png": "/sports-website/static/media/img2.f49950ea6082a8572af4.png",
     "static/media/body-pump.png": "/sports-website/static/media/body-pump.db655530d82349eb4cbb.png",
     "static/media/yoga.png": "/sports-website/static/media/yoga.e95806de96273a0c68d4.png",
     "static/media/full-body.png": "/sports-website/static/media/full-body.88337db51a52afbb3ceb.png",
-    "static/media/resistance.png": "/sports-website/static/media/resistance.011df5b9669edc4f464d.png",
     "static/media/boxing.png": "/sports-website/static/media/boxing.04062eac3922c5d3517d.png",
     "static/media/rai-white.png": "/sports-website/static/media/rai-white.7d5ca9b9a53dec83f670.png",
     "static/media/calendar.svg": "/sports-website/static/media/calendar.316d9eb39b360280ca6b5027f5462a62.svg",
@@ -25,11 +30,11 @@
     "static/media/question-mark.svg": "/sports-website/static/media/question-mark.ac78e0f4921dbec4cdd8586294a5bb5d.svg",
     "static/media/chevron-right.svg": "/sports-website/static/media/chevron-right.54d3bc1c0ea6ec072a21.svg",
     "static/media/chevron-left.svg": "/sports-website/static/media/chevron-left.7d0e8c34fcab2fb5f0bc.svg",
-    "main.1ea50a8f.css.map": "/sports-website/static/css/main.1ea50a8f.css.map",
-    "main.d146601c.js.map": "/sports-website/static/js/main.d146601c.js.map"
+    "main.4aeb4edf.css.map": "/sports-website/static/css/main.4aeb4edf.css.map",
+    "main.1921dc4d.js.map": "/sports-website/static/js/main.1921dc4d.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ea50a8f.css",
-    "static/js/main.d146601c.js"
+    "static/css/main.4aeb4edf.css",
+    "static/js/main.1921dc4d.js"
   ]
 }
