@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import { BsCheckCircleFill } from "react-icons/bs";
 
 const PlanList = ({ plans }) => {
-  const [index, setIndex] = useState(0);
+  const [index, setIndex] = useState(1);
 
   return (
     <div className="flex flex-col lg:flex-row items-center justify-center max-w-[1280px] mx-auto gap-y-4">
@@ -15,7 +15,6 @@ const PlanList = ({ plans }) => {
             className="w-full md:max-w-[620px] lg:max-w-[405px] rounded-sm px-4 lg:min-h-[550px]"
             key={currentIndex}
             data-aos="fade-up"
-            data-aos-offset="200"
             data-aos-delay={delay}
           >
             <div
