@@ -1,12 +1,17 @@
 // images
-import Logo from '../src/assets/img/header/logo.svg';
-import ResistanceImg from '../src/assets/img/workouts/resistance.png';
+import Logo from '../src/assets/img/header/rai-white.png';
 import BoxingImg from '../src/assets/img/workouts/boxing.png';
 import BodyPumpImg from '../src/assets/img/workouts/body-pump.png';
 import YogaImg from '../src/assets/img/workouts/yoga.png';
 import FullBodyImg from '../src/assets/img/workouts/full-body.png';
-import FitnessImg from '../src/assets/img/workouts/fitness.png';
 import BattleRopeImg from '../src/assets/img/workouts/battle-rope.png';
+import VarzybosImg from '../src/assets/img/workouts/varzybos.jpg';
+import VaikaiImg from '../src/assets/img/workouts/vaikai.jpg';
+import LankstumasImg from '../src/assets/img/workouts/lankstumas2.jpg';
+import PrivaciosImg from '../src/assets/img/workouts/privacios.jpg';
+import LaisvasLaikasImg from '../src/assets/img/workouts/laisvasLaikas.jpg';
+import SuaugusiejiImg from '../src/assets/img/workouts/suaugusieji.jpg';
+import MergvakariaiImg from '../src/assets/img/workouts/mergvakariai.jpg';
 import CommunityImg1 from '../src/assets/img/community/img1.png';
 import CommunityImg2 from '../src/assets/img/community/img2.png';
 import CommunityImg3 from '../src/assets/img/community/img3.png';
@@ -26,26 +31,28 @@ export const header = {
 };
 
 export const nav = [
-  { name: 'Home', href: '/' },
-  { name: 'About', href: '/' },
-  { name: 'Workouts', href: '/' },
-  { name: 'Pricing', href: '/' },
-  { name: 'Community', href: '/' },
-  { name: 'FAQ', href: '/' },
+  { name: 'Suaugusiems', href: '/' },
+  { name: 'Vaikams', href: '/' },
+  { name: 'Tvarkaraštis', href: '/' },
+  { name: 'Kainos', href: '/' },
+  { name: 'Stovykla', href: '/' },
+  { name: 'Treneriai', href: '/' },
+  { name: 'Kitos paslaugos', href: '/' },
+  { name: 'Kontaktai', href: '/' },
 ];
 
 export const banner = {
-  titlePart1: 'Get the best part of your day',
-  titlePart2: '– you fit here.',
-  subtitle:
-    'We provide serious fitness but within a fun and friendly, safe space.',
-  textBtn: 'Join Now',
+  titlePart1: 'Suteik sau galimybę',
+  titlePart2: 'pakilti auksčiau.',
+  subtitle: 
+    'Naujos patirtis ir smagus laikas kartu su PoleSport!',
+  textBtn: 'Prisijunk',
   img: '',
 };
 
 export const about = {
   icon: UsersIcn,
-  title: 'Our misson',
+  title: 'Misija',
   subtitle1:
     'We are distinguished by our unsurpassed motivating atmosphere, knowledgeable staff, and premier exercise equipment, which supports our members in meeting their individual fitness goals.',
   subtitle2:
@@ -55,35 +62,35 @@ export const about = {
 
 export const workouts = {
   icon: CalendarIcn,
-  title: 'Training programs',
+  title: 'Treniruotės',
   programs: [
     {
-      image: ResistanceImg,
-      name: 'Resistance',
+      image: VaikaiImg,
+      name: 'Vaikų Sportas',
     },
     {
-      image: BoxingImg,
-      name: 'Boxing',
+      image: SuaugusiejiImg,
+      name: 'Suaugusiujų sportas',
     },
     {
-      image: BodyPumpImg,
-      name: 'Body Pump',
+      image: LankstumasImg,
+      name: 'Lankstumas',
     },
     {
-      image: YogaImg,
-      name: 'Yoga',
+      image: MergvakariaiImg,
+      name: 'Mergvakariai',
     },
     {
-      image: FullBodyImg,
-      name: 'Full Body',
+      image: PrivaciosImg,
+      name: 'Privačios',
     },
     {
-      image: FitnessImg,
-      name: 'Fitness',
+      image: VarzybosImg,
+      name: 'Varžybinės grupės',
     },
     {
-      image: BattleRopeImg,
-      name: 'Battle Rope',
+      image: LaisvasLaikasImg,
+      name: 'Laisvas laikas tobulėjimui',
     },
   ],
 };
@@ -100,7 +107,7 @@ export const pricing = {
         { name: '1 training programs' },
         { name: 'free fitness consultation' },
       ],
-      delay: 600,
+      delay: 100,
     },
     {
       name: 'Premium',
@@ -111,7 +118,7 @@ export const pricing = {
         { name: 'free fitness consultation' },
         { name: 'personal trainer' },
       ],
-      delay: 800,
+      delay: 400,
     },
     {
       name: 'Elite',
@@ -123,18 +130,18 @@ export const pricing = {
         { name: 'personal trainer' },
         { name: '50% off drinks' },
       ],
-      delay: 1000,
+      delay: 600,
     },
   ],
 };
 
 export const community = {
   icon: CommunityIcn,
-  title: 'Community',
+  title: 'Treneriai',
   testimonials: [
     {
       image: CommunityImg1,
-      name: 'Mark A.',
+      name: 'Ilona',
       message:
         '“Great location, great price and great, helpful people. What to want more?”',
     },
